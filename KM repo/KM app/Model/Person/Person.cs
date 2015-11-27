@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace KM_app
 {
+    //Somethin gsomething krav maga
     public abstract class Person //superclass for all persons in the system.
     {
         private string name;
