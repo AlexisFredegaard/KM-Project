@@ -1,0 +1,49 @@
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\KM app.csprojResolveAssemblyReference.cache
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\App.g.i.cs
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\App.g.cs
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\MainPage.g.i.cs
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\MainPage.g.cs
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\XamlTypeInfo.g.cs
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\App.xaml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\MainPage.xaml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\App.xbf
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\MainPage.xbf
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\XamlSaveStateFile.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\ApplicationInsights.config
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\App.xbf
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\MainPage.xbf
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\KM app.xr.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\KM app.exe
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\KM app.pdb
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\resources.pri
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\AppxManifest.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\KM app.build.appxrecipe
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.winmd
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.winmd
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.pdb
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\ApplicationInsights.config
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\KM app.exe
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\KM app.pdb
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\Microsoft.Diagnostics.Tracing.EventSource\en-US\Microsoft.Diagnostics.Tracing.Messages.resw
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\KM app.csproj.GenerateResource.Cache
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\Microsoft.Diagnostics.Tracing.EventSource.pri
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\Microsoft.Diagnostics.Tracing.EventSource\qualifiers.txt
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\priconfig.xml
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\priconfig.xml.intermediate
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\layout.resfiles
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\layout.resfiles.intermediate
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\resources.resfiles
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\resources.resfiles.intermediate
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\pri.resfiles
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\pri.resfiles.intermediate
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\qualifiers.txt
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\qualifiers.txt.intermediate
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hc\documents\visual studio 2013\Projects\KM app\KM app\obj\Debug\ProjectArchitectures.txt
